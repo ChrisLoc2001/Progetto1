@@ -20,7 +20,7 @@ public class Calcolatrice {
         if(a!=0)
             return a/b;
         else
-            return 0:
+            return 0;
     }
 
     public int moltiplicazione(int a, int b){
